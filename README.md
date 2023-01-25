@@ -14,4 +14,4 @@ This is from a practice lesson titled "[Control Flow in Ruby](https://www.codeca
 
 1. ```git clone https://github.com/hayleyw7/who_are_you.git```
 2. ```cd <file_name>```
-2. ```ruby script.md```
+2. ```ruby script.rb```
