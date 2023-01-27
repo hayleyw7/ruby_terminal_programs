@@ -20,6 +20,10 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 "[Redacted](https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/what-youll-be-building-2)"
 
+### histogram
+
+"[Histogram](https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/what-youll-be-building-3)"
+
 ## Directions
 
 Run in Terminal:
