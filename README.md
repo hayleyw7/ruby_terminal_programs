@@ -16,10 +16,14 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 "[Thith Meanth War](https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/what-youll-be-building-1)"
 
+### redacted
+
+"[Redacted](https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/what-youll-be-building-2)"
+
 ## Directions
 
-Run in terminal:
+Run in Terminal:
 
 1. ```git clone https://github.com/hayleyw7/who_are_you.git```
 2. ```ruby <program_name>/script.rb```
-3. Follow prompts.
+3. Follow prompts in Terminal.
