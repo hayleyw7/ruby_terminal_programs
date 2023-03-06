@@ -28,6 +28,10 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 ​
 "[A Night at the Movies](https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/what-youll-be-building-5)"
 
+### greeting_translator
+​
+"[Greeting Translator](https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/when-and-then-the-case-statement)"
+
 ## Directions
 
 Run in Terminal:
