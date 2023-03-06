@@ -24,6 +24,10 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 "[Histogram](https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/what-youll-be-building-3)"
 
+### a_night_at_the_movies
+​
+"[A Night at the Movies](https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/what-youll-be-building-5)"
+
 ## Directions
 
 Run in Terminal:
