@@ -8,7 +8,7 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 "[Putting the Form in Formatter](https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/what-youll-be-building)"
 
-### odd-or-even
+### odd_or_even
 
 "[Control Flow in Ruby](https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/how-it-works)"
 
@@ -16,11 +16,11 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 "[Thith Meanth War](https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/what-youll-be-building-1)"
 
-### word-redactor
+### word_redactor
 
 "[Redacted](https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/what-youll-be-building-2)"
 
-### word-frequency-counter
+### word_frequency_counter
 
 "[Create A Histogram](https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/what-youll-be-building-3)"
 
