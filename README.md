@@ -22,15 +22,19 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 ### histogram
 
-"[Histogram](https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/what-youll-be-building-3)"
+"[Create A Histogram](https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/what-youll-be-building-3)"
 
-### a_night_at_the_movies
+### movie_rating
 ​
 "[A Night at the Movies](https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/what-youll-be-building-5)"
 
 ### greeting_translator
 ​
-"[Greeting Translator](https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/when-and-then-the-case-statement)"
+"[When and Then: The Case Statement](https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/when-and-then-the-case-statement)"
+
+### favorite_language
+​
+"[In Case of Many Options](https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/in-case-of-many-options)"
 
 ## Directions
 
