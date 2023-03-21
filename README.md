@@ -38,7 +38,7 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 
 ### virtual_computer
 
-"[Virtual Computer](https://www.codecademy.com/courses/learn-ruby/lessons/virtual-computer/exercises/you-did-it-1)"
+"[Virtual Computer](https://www.codecademy.com/courses/learn-ruby/lessons/virtual-computer/exercises/what-youll-be-building-6)"
 
 ## Directions
 
