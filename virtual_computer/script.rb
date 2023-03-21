@@ -53,35 +53,35 @@ class Computer
     puts ""
     puts "WHAT WOULD YOU LIKE TO DO?"
     puts "-- Type 'create' to create a file."
-    puts "-- Type 'view' to view all files."
+    puts "-- Type 'files' to view all files."
+    puts "-- Type 'users' to view all users."
     puts "-- Type 'delete' to delete a file."
     puts "-- Type 'end' to log out."
     puts ""
 
     choice = gets.chomp.downcase
-    
+    puts ""
+
     case choice
     when "create"
-      puts ""
       puts "File name:"
       new_file = gets.chomp
       puts ""
       puts "File contents:"
       new_contents = gets.chomp
       self.create(new_file, new_contents)
-    when "view"
-      puts ""
+    when "files"
       self.get_files
     when "delete"
-      puts ""
       puts "File name:"
       file_to_delete = gets.chomp.to_sym
       self.delete(file_to_delete)
+    when "users"
+      puts @@users
+      puts self.user_choice
     when "end"
-      puts ""
       start
     else
-      puts ""
       puts "ERROR: INVALID OPTION"
       puts self.user_choice
     end
@@ -97,6 +97,7 @@ def start
   password_entry = gets.chomp
 
   username_entry = Computer.new(username_entry, password_entry)
+
   username_entry.user_choice
 end
 
