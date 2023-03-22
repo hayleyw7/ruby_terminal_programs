@@ -36,10 +36,6 @@ These are practice terminal programs from the Codecademy [Learn Ruby](https://ww
 ​
 "[In Case of Many Options](https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/in-case-of-many-options)"
 
-### virtual_computer
-
-"[Virtual Computer](https://www.codecademy.com/courses/learn-ruby/lessons/virtual-computer/exercises/what-youll-be-building-6)"
-
 ## Directions
 
 Run in Terminal:
